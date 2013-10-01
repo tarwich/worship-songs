@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-09-13T00:34:24">
+  <properties>
+    <titles>
+      <title>Voice Of Truth</title>
+    </titles>
+    <verseOrder>v1 v2 c1 v3 v4 v5 c1 e1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh what I would do to have<br/>The kind of faith it takes <br/>To climb out of this boat I'm in<br/>Onto the crashing waves.<br/>To step out of my comfort zone<br/>To the realm of the unknown <br/>where Jesus is<br/>And He's holding out his hand</lines>
+    </verse>
+    <verse name="v2">
+      <lines>But the waves are calling out my name <br/>and they laugh at me<br/>Reminding me of all the times<br/>I've tried before and failed<br/>The waves they keep on telling me<br/>Time and time again:<br/>'Boy, you'll never win!'<br/>"You'll never win"</lines>
+    </verse>
+    <verse name="c1">
+      <lines>But the voice of truth tells <br/>me a different story<br/>And the voice of truth says <br/>"Do not be afraid!"<br/>And the voice of truth says <br/>"This is for My glory"<br/>Out of all the voices calling out to me<br/>I will choose to listen and believe <br/>The voice of truth</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh what I would do to have<br/>The kind of strength it takes to stand<br/>Before a giant<br/>With just a Sling and a stone<br/>Surrounded by the sound <br/>Of a thousand warriors<br/>Shaking in their armor<br/>Wishing they'd have had <br/>The strength to stand</lines>
+    </verse>
+    <verse name="v4">
+      <lines>But the giant's calling out my name <br/>And he laughs at me<br/>Reminding me of all the times <br/>I've tried before and failed<br/>The giant keeps on telling me<br/>Time and time again:<br/> "boy, you'll never win!<br/>"You'll never win"</lines>
+    </verse>
+    <verse name="v5">
+      <lines>But the stone was just the right size<br/>To put the giant on the ground<br/>And the waves they don't seem so high<br/>From on top of them looking down<br/>I will soar with the wings of eagles<br/>When I stop and listen to the sound of Jesus<br/>Singing over me</lines>
+    </verse>
+    <verse name="e1">
+      <lines>I will choose to listen and believe<br/>The voice of truth</lines>
+    </verse>
+  </lyrics>
+</song>

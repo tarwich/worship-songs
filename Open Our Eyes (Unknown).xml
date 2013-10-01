@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-09-13T00:34:24">
+  <properties>
+    <titles>
+      <title>Open Our Eyes</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Open our eyes, Lord, <br/>We want to see Jesus<br/>To reach out and touch Him, <br/>And say that we love Him<br/>Open our ears, Lord, <br/>And help us to listen<br/>Open our eyes, Lord, <br/>We want to see Jesus</lines>
+    </verse>
+  </lyrics>
+</song>

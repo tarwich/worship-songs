@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-09-13T00:34:23">
+  <properties>
+    <titles>
+      <title>Days of Elijah</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 b1 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>These are the days of  Elijah<br/>Declaring the Word of the Lord, yes<br/>And these are the days of his servant, Moses<br/>Righteousness being restored<br/>And these are the days of great trial<br/>Of famine and darkness and sword<br/>So we are the voice in the desert crying<br/>Prepare ye the way of the Lord</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Behold he comes<br/>Riding on a cloud<br/>Shining like the sun<br/>At the trumpet's call<br/>Lift your voice<br/>It's the year of jubilee<br/>Out of Zion's hill salvation comes</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And these are the days of Ezekiel<br/>With dry bones becoming as flesh<br/>And these are the days of his servant, David<br/>Building the temple of praise, yes<br/>And these are the days of the harvest<br/>The fields are all white in the world<br/>And we are the laborers that are in your vineyard<br/>Declaring the word of the Lord </lines>
+    </verse>
+    <verse name="b1">
+      <lines>There's no God like Jehovah<br/>(Repeat 7x)</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-09-13T00:34:25">
+  <properties>
+    <titles>
+      <title>Worthy of My Praise</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will worship, <br/>With all of my heart<br/>I will praise you, <br/>With all of my strength<br/>I will seek you, <br/>All of my days<br/>I will follow, <br/>All of your ways</lines>
+    </verse>
+    <verse name="c1">
+      <lines> I will give, <br/> You all my worship<br/> I will give, <br/> You all my praise<br/> You alone, <br/> I long to worship<br/> You alone, <br/> Are worthy of my praise</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I will bow down, <br/>And hail you as king<br/>I will serve you<br/>I will give you everything<br/>I will lift up <br/>My eyes to your throne<br/>I will trust you, <br/>I will trust you alone</lines>
+    </verse>
+  </lyrics>
+</song>

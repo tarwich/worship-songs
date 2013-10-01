@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-09-13T00:34:24">
+  <properties>
+    <titles>
+      <title>We Fall Down</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We fall down, we lay our crown <br/>At the feet of Jesus<br/>The greatness of His mercy and love <br/>At the feet of Jesus</lines>
+    </verse>
+    <verse name="c1">
+      <lines>We cry Holy, Holy, Holy<br/>We cry Holy, Holy, Holy<br/>We cry Holy, Holy, Holy is the Lamb</lines>
+    </verse>
+    <verse name="v2">
+      <lines>No more fears, You've dried our tears <br/>At the feet of Jesus<br/>Grace abounds to all who've found <br/>the feet of Jesus</lines>
+    </verse>
+  </lyrics>
+</song>

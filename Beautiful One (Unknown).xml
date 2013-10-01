@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-09-13T00:34:23">
+  <properties>
+    <titles>
+      <title>Beautiful One</title>
+    </titles>
+    <verseOrder>v1 v2 c1 v3 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wonderful, so wonderful<br/>Is your unfailing love<br/>Your cross has spoken mercy over me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>No eye has seen no ear has heard<br/>No heart could fully know<br/>How glorious, how beautiful you are.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Beautiful one I love<br/>Beautiful one I adore<br/>Beautiful one my soul must sing.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Powerful so powerful<br/>Your glory fills the skies<br/>Your mighty works displayed for all to see</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The beauty of your majesty<br/>Awakes my heart to sing<br/>How marvelous how wonderful you are.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>And you opened my eyes to your wonders anew<br/>You captured my heart with this love<br/>Because nothing on earth is as beautiful as you.</lines>
+    </verse>
+  </lyrics>
+</song>

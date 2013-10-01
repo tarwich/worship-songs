@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-09-13T00:34:23">
+  <properties>
+    <titles>
+      <title>Everlasting God</title>
+    </titles>
+    <comments>
+      <comment>Strength arises we wait upon the Lord</comment>
+    </comments>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Strength will rise <br/>As we wait upon the Lord<br/>We will wait upon the Lord<br/>We will wait upon the Lord</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Our God, You reign forever<br/>Our hope, our Strong Deliverer</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You are the everlasting God<br/>The everlasting God<br/>You do not faint<br/>You won't grow weary<br/>You're the defender of the weak<br/>You comfort those in need<br/>You lift us up on wings like eagles</lines>
+    </verse>
+  </lyrics>
+</song>

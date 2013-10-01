@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-09-13T00:34:24">
+  <properties>
+    <titles>
+      <title>Trust in the Lord</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Trust in the Lord with all your heart<br/>And do not rely on your own insight<br/>In all your ways acknowledge Him<br/>And he will make straight your paths.<br/>Be not wise in your own eyes<br/>Fear the Lord , and turn away from evil<br/>He will bring healing to your flesh,<br/>And refreshment to your bones</lines>
+    </verse>
+  </lyrics>
+</song>

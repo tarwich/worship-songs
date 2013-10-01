@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-09-13T00:34:23">
+  <properties>
+    <titles>
+      <title>I saw the light</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I wandered so aimless life filled with sin<br/>I wouldn't let my dear Saviour in<br/>Then Jesus came like a stranger in the night<br/>Praise the Lord I saw the light</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I saw the light I saw the light<br/>No more darkness no more night<br/>Now I'm so happy no sorrow in sight<br/>Praise the Lord I saw the light</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Just like a blind man I wandered along<br/>Worries and fears I claimed for my own<br/>Then like the blind man that God gave back his sight<br/>Praise the Lord I saw the light</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I was a fool to wander and astray <br/>Straight is the gate and narrow the way<br/>Now I have traded the wrong for the right<br/>Praise the Lord I saw the light</lines>
+    </verse>
+  </lyrics>
+</song>

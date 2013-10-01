@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-09-13T00:34:24">
+  <properties>
+    <titles>
+      <title>Semper Paratus</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>From Aztec shore to Arctic zone<br/>To Europe and Far East<br/>The Flag is carried by our ships <br/>In times of war and peace<br/>North and South and East and West<br/>The Coast Guard's in the fight<br/>Destroying subs and landing troops<br/>The Axis feels our might</lines>
+    </verse>
+  </lyrics>
+</song>

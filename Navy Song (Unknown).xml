@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-09-13T00:34:24">
+  <properties>
+    <titles>
+      <title>Navy Song</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Anchors away, my boys, anchors away<br/>Farewell to college joys<br/>We sail at break of day<br/>On our last night ashore<br/>Drink to the foam<br/>And till we meet again<br/>Here's wishing you a happy voyage home</lines>
+    </verse>
+  </lyrics>
+</song>

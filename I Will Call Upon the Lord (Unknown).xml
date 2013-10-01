@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-09-13T00:34:23">
+  <properties>
+    <titles>
+      <title>I Will Call Upon the Lord</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will call upon the Lord<br/>Who is worth to be praised<br/>(Repeat)<br/>So shall I be saved from my enemies<br/>The Lord liveth and blessed be the Rock<br/>And let the God of my salvation be exalted</lines>
+    </verse>
+  </lyrics>
+</song>

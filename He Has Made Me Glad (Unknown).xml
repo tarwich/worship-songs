@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-09-13T00:34:23">
+  <properties>
+    <titles>
+      <title>He Has Made Me Glad</title>
+      <title>This Is The Day</title>
+    </titles>
+    <verseOrder>v1 c1 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will enter His gates <br/>With thanksgiving in my heart<br/>I will enter Hist courts with praise<br/>I will say, "This is the day <br/>--that the Lord has made!"<br/>I will rejoice for He has made me glad.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>He has made me glad,<br/>He has made me glad<br/>I will rejoice for He has made me glad.</lines>
+    </verse>
+  </lyrics>
+</song>

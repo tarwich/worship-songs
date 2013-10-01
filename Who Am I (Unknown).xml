@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-09-13T00:34:24">
+  <properties>
+    <titles>
+      <title>Who Am I</title>
+    </titles>
+    <verseOrder>v1 p1 c1 v2 p1 c1 e1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Who am I?<br/>That the Lord of all the earth<br/>Would care to know my name<br/>Would care to feel my hurt?<br/>Who am I?<br/>That the Bright and Morning Star<br/>Would choose to light the<br/>Way for my ever-wandering heart?</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Not because of who I am<br/>But because of what you've done<br/><br/>Not because of what I've done<br/>But because of who you are</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I am a flower quickly fading<br/>Here today and gone tomorrow<br/>A wave tossed in the ocean<br/>A vapor in the wind<br/>Still you hear me when I’m calling<br/>Lord, you catch me when I’m falling<br/>And you've told me who I am<br/>I am yours<br/>I am yours</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Who am I?<br/>That the eyes that see my sin<br/>Would look on me with love<br/>And watch me rise again<br/>Who am I?<br/>That the voice that calmed the sea<br/>Would call out through the rain<br/>And calm the storm in me?</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Whom shall I fear, whom shall I fear?<br/>Cause I am yours</lines>
+    </verse>
+  </lyrics>
+</song>

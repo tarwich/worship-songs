@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-09-13T00:34:23">
+  <properties>
+    <titles>
+      <title>Blessed Be Your Name</title>
+    </titles>
+    <verseOrder>v1 c1 c2 v2 c1 c2 b1 c2</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Blessed be Your name in the land that is plentiful<br/>Where Your streams of abundance flow<br/>Blessed be Your name<br/>And blessed be Your name <br/>When I'm found in the desert place<br/>Though I walk through wilderness<br/>Blessed be your name</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Every blessing You pour out I <br/>Turn back to praise<br/>And when the darkness closes in, Lord <br/>Still I will say</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Blessed be the name of the Lord<br/>Blessed be Your name<br/>Blessed be the name of the Lord<br/>Blessed be Your glorious name</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Blessed be Your name<br/>When the sun's shining down on me<br/>When the world's "all as it should be"<br/>Blessed be Your name<br/>And blessed be Your name <br/>On the road marked with suffering<br/>Through there's pain in the offering <br/>Blessed be Your name</lines>
+    </verse>
+    <verse name="b1">
+      <lines>You give and take away<br/>You give and take away<br/>My heart will choose to say<br/>Lord, blessed be Your name</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-09-13T00:34:24">
+  <properties>
+    <titles>
+      <title>Trading My Sorrows</title>
+    </titles>
+    <verseOrder>c1 v1 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm pressed but not crushed, <br/>persecuted not abandoned<br/>Struck down but not destroyed<br/>I'm blessed beyond the curse <br/>for His promise will endure<br/>And his joy's gonna be my strength<br/>Though the sorrow may last for the night<br/>His joy comes with the morning</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I'm trading my sorrow, <br/>I'm trading my shame<br/>I'm laying them down <br/>For the joy of the Lord<br/>I'm trading my sickness, <br/>I'm trading my pain<br/>I'm laying them down <br/>for the joy of the Lord<br/>Yes Lord Yes Lord yes yes Lord<br/>Yes Lord Yes Lord yes yes Lord<br/>Yes Lord Yes Lord yes yes Lord Amen</lines>
+    </verse>
+  </lyrics>
+</song>

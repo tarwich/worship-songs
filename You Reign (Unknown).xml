@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-09-13T00:34:25">
+  <properties>
+    <titles>
+      <title>You Reign</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 e1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Even before there was a drop in the ocean<br/>Even before there was a star in the sky <br/>Even before the world was put in motion <br/>You were on Your throne,<br/>You were on Your throne.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You reign, glory in the highest<br/>You reign,let creation testify<br/>by Your name<br/>every knee will bow<br/>and every tongue proclaim<br/>that Jesus reigns.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Even before Your hand made the heavens<br/>even before the breath of all mankind<br/>even before we had to be forgiven<br/>You were on Your throne<br/>You were on Your throne.</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Yesterday, today and forever<br/>Your are God who was,<br/>and is and is to come.</lines>
+    </verse>
+  </lyrics>
+</song>

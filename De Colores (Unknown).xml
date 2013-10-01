@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-09-13T00:34:23">
+  <properties>
+    <titles>
+      <title>De Colores</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>De colores, de colores the fields love to <br/>  dress in all during the springtime<br/>De colores, de colores the birds have their <br/>  clothing which come every season</lines>
+    </verse>
+    <verse name="v2">
+      <lines>De colores, de colores the rainbow is <br/>  vested across the blue sky<br/>De colores and so must all love be <br/>  of every bright color that makes my heart cry<br/>(Repeat)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sing the roster, sing the rooster with <br/>  his kiri kiri kiri kiri<br/>And the cluck hen, and the cluck hen with <br/>  her kera kera kera kera<br/>And the babe chicks, and the babe chicks with <br/>  their pio pio pio pio pi</lines>
+    </verse>
+    <verse name="v4">
+      <lines>De colores and so must all love be <br/>  of every bright color that makes my heart cry<br/>(Repeat)</lines>
+    </verse>
+  </lyrics>
+</song>

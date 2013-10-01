@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-09-13T00:34:24">
+  <properties>
+    <titles>
+      <title>Revelation Song</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Worthy is the Lamb<br/>Who was slain<br/>Holy, Holy is He<br/>Sing a new song to Him<br/>Who sits on Heaven's mercy seat</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Holy, Holy, Holy is the Lord God Almighty<br/>Who was and is and is to come<br/>With all creation I sing <br/>Praise to the King of Kings<br/>You are my everything <br/>And I will adore you</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Clothed in rainbows of living color<br/>Flashes of lightening<br/>Rolls of thunder<br/>Blessing and Honor<br/>Strength and Glory and Power <br/>Be to You, the only wise King</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Filled with wonder <br/>Awestruck wonder<br/>At the mention of Your name<br/>Jesus Your name is Power, <br/>Breath and Living Water<br/>Such a marvelous mystery </lines>
+    </verse>
+  </lyrics>
+</song>

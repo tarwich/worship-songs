@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-09-13T00:34:22">
+  <properties>
+    <titles>
+      <title>Abide In Me</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Abide in me, O Lord, and I in Thee,<br/>From this good hour, oh, leave me nevermore;<br/>Then shall the discord cease, the wound be healed,<br/>The lifelong bleeding of the soul be o’er.<br/>Abide in me; o’ershadow by Thy love<br/>Each half formed purpose and dark thought of sin;<br/>Quench ere it rise each selfish, low desire,<br/>And keep my soul as Thine, calm and divine.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>As some rare perfume in a vase of clay,<br/>Pervades it with a fragrance not its own,<br/>So, when Thou dwellest in a mortal soul,<br/>All Heaven’s own sweetness seems around it thrown.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Abide in me; there have been moments blest<br/>When I have heard Thy voice and felt Thy power;<br/>Then evil lost its grasp; and passion, hushed,<br/>Owned the divine enchantment of the hour.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>These were but seasons beautiful and rare;<br/>Abide in me, and they shall ever be;<br/>Fulfill at once Thy precept and my prayer,<br/>Come, and abide in me, and I in Thee.</lines>
+    </verse>
+  </lyrics>
+</song>

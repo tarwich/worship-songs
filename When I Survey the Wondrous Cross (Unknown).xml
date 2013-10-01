@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-09-13T00:34:24">
+  <properties>
+    <titles>
+      <title>When I Survey the Wondrous Cross</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When I survey the wondrous cross<br/>On which the Prince of Glory died<br/>My richest gain I count but loss<br/>And pour contempt on all my pride<br/>See from His head, His hands, His feet<br/>Sorrow and love flow mingled down<br/>Did ever such love and sorrow meet<br/>Or thorns compose so rich a crown?<br/>Were the whole realm of nature mine<br/>That were an offering far too small<br/>Love so amazing, so divine<br/>Demands my soul, my life, my all</lines>
+    </verse>
+  </lyrics>
+</song>

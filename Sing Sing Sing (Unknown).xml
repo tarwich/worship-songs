@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-09-13T00:34:24">
+  <properties>
+    <titles>
+      <title>Sing Sing Sing</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We will sing, sing, sing <br/>And make music with the heavens <br/>We will sing, sing, sing <br/>Grateful that You hear us <br/>When we shout your praise <br/>Lift high the name of Jesus </lines>
+    </verse>
+    <verse name="v2">
+      <lines>What's not to love about You? <br/>Heaven and earth adore You <br/>Kings and kingdoms bow down <br/>Son of God, You are the One <br/>You are the One we're living for </lines>
+    </verse>
+    <verse name="v3">
+      <lines>You are the love that frees us <br/>You are the light that leads us <br/>Like a fire burning <br/>Son of God, You are the one <br/>You are the one we're living for</lines>
+    </verse>
+  </lyrics>
+</song>

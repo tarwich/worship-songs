@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-09-13T00:34:23">
+  <properties>
+    <titles>
+      <title>Because Of Your Love</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>As we come into Your presence <br/>We remember every blessing<br/>That You've poured out so freely from above<br/>Lifting gratitude and praises <br/>For compassion so amazing<br/>Lord we've come to give You thanks for all You've done</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Because of Your love we're forgiven<br/>Because of Your love our hearts are clean<br/>We lift You up<br/>Forever we're changed<br/>Because of Your love</lines>
+    </verse>
+  </lyrics>
+</song>

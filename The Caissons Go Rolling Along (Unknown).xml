@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-09-13T00:34:24">
+  <properties>
+    <titles>
+      <title>The Caissons Go Rolling Along</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Over hill, <br/>Over dale <br/>As we hit the dusty trail<br/>And those caissons go rolling along<br/>In and out, <br/>Hear them shout, <br/>Counter march and right about<br/>And those caissons go rolling along<br/>Then it's Hi! Hi!</lines>
+    </verse>
+  </lyrics>
+</song>

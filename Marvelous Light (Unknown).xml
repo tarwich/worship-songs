@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-09-13T00:34:24">
+  <properties>
+    <titles>
+      <title>Marvelous Light</title>
+    </titles>
+    <verseOrder>c1 v1 p1 c1 c1 v2 p1 c1 c1 b1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I once was fatherless, <br/>A stranger with no hope<br/>Your kindness wakened me, <br/>Wakened me from my sleep<br/>Your love it beckons deeply, <br/>A call to come and die<br/>By grace now I will come <br/>And take this life, take Your life</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Sin has lost its power, <br/>Death has lost its sting<br/>From the grave You've risen... <br/>Victoriously!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Into marvelous light I'm running <br/>Out of darkness, out of shame<br/>By the cross You are the truth, <br/>You are the life<br/>You are the way</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My dead heart is now beating, <br/>My deepest stains now clean<br/>Your breath fills up my lungs, <br/>Now I'm free, now I'm free<br/>My dead heart is now beating, <br/>My deepest stains now clean<br/>Your breath fills up my lungs, <br/>Now I'm free, now I'm free</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Lift my hands and spin around,<br/>See the light that I have found<br/>O the marvelous light, marvelous light</lines>
+    </verse>
+  </lyrics>
+</song>

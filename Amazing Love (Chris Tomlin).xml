@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-09-13T00:34:23">
+  <properties>
+    <titles>
+      <title>Amazing Love</title>
+    </titles>
+    <authors>
+      <author>Chris Tomlin</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I’m forgiven because You were forsaken,<br/>I’m accepted, You were condemned.<br/>I am alive and well, Your spirit is within me,<br/>Because You died and rose again.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Amazing love, How can it be<br/>That You, my King, should die for me?<br/>Amazing love, I know it’s true.<br/>It’s my joy to honor You,<br/>In all I do, I honor You.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>You are my King<br/>Jesus You are my King</lines>
+    </verse>
+  </lyrics>
+</song>

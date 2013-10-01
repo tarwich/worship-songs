@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-09-13T00:34:23">
+  <properties>
+    <titles>
+      <title>He Reigns</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c2</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It's the song of the redeemed<br/>Rising from the African plain<br/>It's the song of the forgiven<br/>Drowning out the Amazon rain<br/>The song of Asian believers<br/>Filled with God's holy fire<br/>It's every tribe, every tongue, every nation<br/>A love song born of a grateful choir</lines>
+    </verse>
+    <verse name="c1">
+      <lines>It's all God's children singing<br/>Glory, glory, hallelujah<br/>He reigns, He reigns<br/>It's all God's children singing<br/>Glory, glory, hallelujah<br/>He reigns, He reigns</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Let it rise about the four winds<br/>Caught up in the heavenly sound<br/>Let praises echo <br/>From the towers of cathedrals<br/>To the faithful gathered underground<br/>Of all the songs sung from the dawn of creation<br/>Some were meant to persist<br/>Of all the bells rung from a thousand steeples<br/>None rings truer than this</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And all the powers of darkness<br/>Tremble at what they've just heard<br/>'Cause all the powers of darkness<br/>Can't drown out a single word</lines>
+    </verse>
+    <verse name="c2">
+      <lines>When all God's children sing out<br/>Glory, glory, hallelujah<br/>He reigns, He reigns<br/>All God's people singing<br/>Glory, glory, hallelujah<br/>He reigns, He reigns</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-09-13T00:34:23">
+  <properties>
+    <titles>
+      <title>Heart of Worship</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When the music fades<br/>And all is stripped away <br/>and I simply come<br/>Longing just to bring <br/>something that's of worth<br/>That will bless your heart<br/>I'll bring you more than a song <br/>for a song in itself<br/>Is not what you have required. <br/>You search much deeper within<br/>Through the way things appear. <br/>You're looking into my heart</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I'm coming back to the heart of worship<br/>And it's all about you, all about you, Jesus<br/>I'm sorry, Lord, for the thing I've made it<br/>When it's all about you, all about you, Jesus</lines>
+    </verse>
+    <verse name="v2">
+      <lines>King of endless worth<br/>No one could express how much you deserve<br/>Though I'm weak and poor<br/>All I have is yours, every single breath</lines>
+    </verse>
+  </lyrics>
+</song>

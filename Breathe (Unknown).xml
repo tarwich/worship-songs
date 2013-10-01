@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-09-13T00:34:23">
+  <properties>
+    <titles>
+      <title>Breathe</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>This is the air I breathe (repeat)<br/>Your holy presence living in me<br/>This is my daily bread (repeat)<br/>Your every word spoken to me<br/>And I, I'm desperate for You<br/>And I, I'm lost without You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You are the air I breathe (repeat)<br/>Your holy presence living in me<br/>You are my daily bread (repeat)<br/>Your every word spoken to me<br/>And I, I'm desperate for You<br/>And I, I'm lost without You</lines>
+    </verse>
+  </lyrics>
+</song>

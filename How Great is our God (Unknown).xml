@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-09-13T00:34:23">
+  <properties>
+    <titles>
+      <title>How Great is our God</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 c2 b1 c1 c2</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The splendor of a King,<br/>clothed in majesty<br/>Let all the earth rejoice,<br/>all the earth rejoice<br/>He wraps himself in light,<br/>and darkness tries to hide<br/>it trembles at his voice,<br/>trembles at his voice</lines>
+    </verse>
+    <verse name="c1">
+      <lines>How great is our God, <br/>sing with me<br/>How great is our God,<br/>and all will see <br/>How great, How great is our God</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Then sings my soul, My Savior God, to  Thee<br/>How great Thou art, how great Thou art<br/>(Repeat All)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And age to age He stands<br/>and time is in His Hands<br/>Beginning and the End, <br/>Beginning and the End<br/>The Godhead, three in one<br/>Father, Spirit, Son_<br/>the Lion and the Lamb,<br/>the Lion and the Lamb</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Name above all names<br/>Worthy of all praise<br/>My heart will sing <br/>how great is our God</lines>
+    </verse>
+  </lyrics>
+</song>

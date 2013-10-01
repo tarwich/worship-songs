@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-09-13T00:34:22">
+  <properties>
+    <titles>
+      <title>A Mighty Fortress Is My God</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A mighty fortress is our God,<br/>A bulwark never failing;<br/>Our helper He amid the flood<br/>Of mortal ills prevailing.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For still our ancient foe<br/>Doth seek to work us woe<br/>His craft and pow'r are great,<br/>And armed with cruel hate,<br/>On earth is not his equal. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Did we in our own strength confide,<br/>Our striving would be losing,<br/>Were not the right Man on our side,<br/>The Man of God's own choosing.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dost ask who that may be?<br/>Christ Jesus, it is he -<br/>Lord Sabbaoth His name,<br/>From age to age the same -<br/>And He must win the battle.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>And tho this world, with devil is filled,<br/>Should threaten to undo us<br/>we will not fear, for God hath willed<br/>His truth to triumph thru us.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>The prince of darkness grim<br/>We tremble not for him;<br/>His rage we can endure,<br/>For lo! his doom is sure -<br/>One little word shall fell him.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>That word above all earthly pow'rs<br/>No thanks to them - abideth;<br/>The Spirit and the gifts are ours<br/>Thru Him who with us sideth.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Let goods and kindred go,<br/>This mortal life also;<br/>The body they may kill;<br/>God's truth abideth still;<br/>His kingdom is forever.</lines>
+    </verse>
+  </lyrics>
+</song>

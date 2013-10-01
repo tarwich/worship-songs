@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-09-13T00:34:24">
+  <properties>
+    <titles>
+      <title>Lean On Me</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 b1 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Some-times, in our lives 	   <br/>We all have pain, we all have sorrow<br/>But, if we are wise 		<br/>We know that there's always tomorrow</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Lean on me, when you're not strong<br/>I'll be your friend, I'll help you carry on<br/>For, it won't be long  <br/>Til I'm gonna need, somebody to lean on</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Please, swallow your pride     <br/>If I have things, you need to borrow<br/>For, no one can fill    <br/>Those of your needs, that you won't let show</lines>
+    </verse>
+    <verse name="b1">
+      <lines>You just call on me brother when you need a hand<br/>We all need somebody to lean on<br/>I just might have a problem that you'll understand<br/>We all need somebody to lean on </lines>
+    </verse>
+    <verse name="v3">
+      <lines>If there is a load       <br/>You have to bear, that you can't carry<br/>I'm right up the road     <br/>I'll share your load if you just call me</lines>
+    </verse>
+  </lyrics>
+</song>

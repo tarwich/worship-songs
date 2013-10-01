@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-09-13T00:34:23">
+  <properties>
+    <titles>
+      <title>I Love Your Grace</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v2 v3 v4 v1 v2 v1 v2 v3 v4 v1 v2 e1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I love Your grace, <br/>I love your mercy<br/>I love the way <br/>You help me when I call</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I love the Truth, <br/>I love the power of Your name<br/>But You know I love Your presence <br/>Most of all</lines>
+    </verse>
+    <verse name="v3">
+      <lines>My soul takes refuge <br/>In the shadow of Your wing<br/>Close to You is where I want to be </lines>
+    </verse>
+    <verse name="v4">
+      <lines>You are my strength <br/>You are my God You are my King<br/>And all I want is what You want for me</lines>
+    </verse>
+    <verse name="e1">
+      <lines>I love the Truth, <br/>I love the power of Your name<br/>But You know I love Your presence <br/>Most of all<br/>But You know I love Your presence <br/>Most of all</lines>
+    </verse>
+  </lyrics>
+</song>

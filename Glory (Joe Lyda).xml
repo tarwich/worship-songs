@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-09-13T00:34:23">
+  <properties>
+    <titles>
+      <title>Glory</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Joe Lyda</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Glory, glory, glory to the Lord<br/>Glory, glory, glory to the Lord</lines>
+    </verse>
+    <verse name="v1">
+      <lines>When in time of plenty,<br/>When in time of need<br/>When I'm tired and weary<br/>When there is victory</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sometimes when I'm singing,<br/>Even if I cry<br/>Sometimes when I celebrate<br/>Even if I die</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I praise Him when I'm weak or strong<br/>My father can deliver me<br/>He's in my heart and I'm in His<br/>There's no place else I'd rather be<br/>No place else I'd rather be </lines>
+    </verse>
+  </lyrics>
+</song>

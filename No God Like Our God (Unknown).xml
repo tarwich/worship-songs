@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-09-13T00:34:24">
+  <properties>
+    <titles>
+      <title>No God Like Our God</title>
+      <title>Rock of Ages</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is no rock, <br/>There is no god like our God<br/>No other name <br/>Worthy of all our praise</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The rock of Salvation <br/>That cannot be moved<br/>He's proven Himself <br/>To be faithful and true<br/>There is no rock, There is no god like ours</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Rock of Ages,  Jesus is the Rock<br/>Rock of Ages,  Jesus is the Rock</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Rock of Ages,  Jesus is the Rock<br/>There is no rock, there is no god like ours</lines>
+    </verse>
+  </lyrics>
+</song>

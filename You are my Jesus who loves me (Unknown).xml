@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-09-13T00:34:25">
+  <properties>
+    <titles>
+      <title>You are my Jesus who loves me</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>You are beautiful my sweet, sweet song <br/>You are beautiful my sweet, sweet song <br/>You are beautiful my sweet, sweet song <br/>And I will sing again </lines>
+    </verse>
+    <verse name="v1">
+      <lines>You are so good to me <br/>You heal my broken heart <br/>You are my Father in Heaven<br/>You are my Father in Heaven</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You ride upon the Clouds <br/>You lead me to the Truth <br/>You are the Spirit inside me<br/>You are the Spirit inside me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You are my Strong Melody, yeah <br/>You are my Dancing Rhythm <br/>You are my Perfect Rhyme <br/>And I will sing of You forever </lines>
+    </verse>
+    <verse name="v4">
+      <lines>You poured out all Your Blood <br/>You died upon the Cross <br/>You are my Jesus who loves me<br/>You are my Jesus who loves me</lines>
+    </verse>
+    <verse name="v5">
+      <lines>You are my Father in Heaven <br/>You are the Spirit inside me <br/>You are my Jesus who loves me</lines>
+    </verse>
+  </lyrics>
+</song>

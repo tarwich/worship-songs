@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-09-13T00:34:24">
+  <properties>
+    <titles>
+      <title>This is the Day</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>This is the day, this is the day<br/>That the Lord hath made, that the Lord hath made.<br/>We will rejoice, we will rejoice<br/>And be glad in it, and be glad in it.<br/>This is the day that the Lord hath made,<br/>We will rejoice and be glad in it.<br/>This is the day, this is the day<br/>That the Lord hath made.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.1" modifiedIn="OpenLP 2.0.1" modifiedDate="2013-09-13T00:34:24">
+  <properties>
+    <titles>
+      <title>Our God</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Water you turned into wine, <br/>Opened the eyes of the blind<br/>There's no one like you, <br/>None like You!<br/>Into the darkness you shine <br/>Out of the ashes we rise<br/>There's no one like You <br/>None like You</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Our God is greater, our God is stronger, <br/>God you are higher than any other<br/>Our God is Healer, Awesome in Power, <br/>Our God! Our God!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>And if our God is for us, <br/>Then who could ever stop us<br/>And if our God is with us, <br/>Then what could stand against<br/>And if our God is for us, <br/>Then who could ever stop us<br/>And if our God is with us, <br/>Then what could stand against<br/>What could stand against</lines>
+    </verse>
+  </lyrics>
+</song>
